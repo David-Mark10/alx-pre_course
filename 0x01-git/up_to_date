@@ -1,4 +1,1 @@
-echo 'newfile'> filename
-touch newfile.txt
-cat newfile.txt
-vim newfile.txt
+git pull
