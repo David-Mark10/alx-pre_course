@@ -1,1 +1,4 @@
-touch up_to_date.txt
+echo 'newfile'> filename
+touch newfile.txt
+cat newfile.txt
+vim newfile.txt
